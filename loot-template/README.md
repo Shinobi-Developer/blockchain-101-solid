@@ -11,9 +11,6 @@ This contract showcase how you will want to structure your contract to create an
 the key is to not construct the metadata during minting, but offload everything to a read function.
 Although deployment might be costly, it makes minting gas efficient.
 
-Curated by [@marcelc63](https://twitter.com/marcelc63) - [marcelchristianis.com](https://marcelchristianis.com)
-Each functions have been annotated based on my own research.
-
 Feel free to use and modify as you see appropriate
 
 # Using the Template

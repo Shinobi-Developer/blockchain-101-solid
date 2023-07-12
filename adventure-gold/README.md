@@ -10,10 +10,6 @@ The airdrop of AGLD is achieved through communication between AGLD's contract an
 Loot's contract. In reality, it's not really an airdrop but more like a permission to claim.
 In this template, we'll see how to create ERC20 tokens that complement an NFT.
 
-Curated by [@marcelc63](https://twitter.com/marcelc63) - [marcelchristianis.com](https://marcelchristianis.com)
-The original author has done extensive commenting of the contract. Here I mainly
-provide elaborations.
-
 Feel free to use and modify as you see appropriate
 
 # Using the Template

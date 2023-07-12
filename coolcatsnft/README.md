@@ -10,9 +10,6 @@ CoolCatsNFT team deployed this contract for $55.59 at $1,983 ETH Price from 27 J
 The trick is to just use \_safeMint without using \_setTokenURI at all. Hence no ERC721Metadata.sol imported.
 tokenURI function will just concatenate the baseURI with the token id when calling the function.
 
-Curated by [@marcelc63](https://twitter.com/marcelc63) - [marcelchristianis.com](https://marcelchristianis.com)
-Each functions have been annotated based on my own research and findings from [https://medium.com/coinmonks/what-i-learned-from-building-cool-cats-nft-4057f279d400](https://medium.com/coinmonks/what-i-learned-from-building-cool-cats-nft-4057f279d400)
-
 Feel free to use and modify as you see appropriate
 
 # Using the Template

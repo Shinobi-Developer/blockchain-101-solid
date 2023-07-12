@@ -11,9 +11,6 @@ This contract represents a very real use case where you can now provide authenti
 memberships, and subscriptions through the blockchain.
 I see this as a common practice as web3 obtain even wider adoption.
 
-Curated by [@marcelc63](https://twitter.com/marcelc63) - [marcelchristianis.com](https://marcelchristianis.com)
-Each functions have been annotated based on my own research.
-
 Feel free to use and modify as you see appropriate
 
 # Using the Template
