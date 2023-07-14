@@ -8,4 +8,4 @@ This project is a guide to building a simple blockchain application using Solidi
 4. Adventure Gold ( Create ERC20 tokens based on NFT ownership to airdrop to holders. )
 5. Refund Contract ( Refundable Contract )
 6. TimeLocked Contract ( TimeLocked NFT mint Contract )
-
+7. Wallet ( Simple Wallet Example )
